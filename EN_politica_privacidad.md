@@ -1,79 +1,79 @@
-Esta política de privacidad aplica a la aplicación Italian Brainrot AI Chat (en adelante, la “Aplicación”) para dispositivos móviles, creada por (en adelante, el “Proveedor del Servicio”) como un servicio gratuito. Este servicio se ofrece “TAL CUAL”.
+This privacy policy applies to the Italian Brainrot AI Chat app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-Recopilación y uso de información
+Information Collection and Use
 
-La Aplicación recopila información cuando la descargas y la utilizas. Esta información puede incluir:
+The Application collects information when you download and use it. This information may include:
 
-La dirección IP de tu dispositivo (por ejemplo, dirección IP)
+Your device's Internet Protocol address (e.g. IP address)
 
-Las páginas de la Aplicación que visitas, la fecha y hora de tu visita, el tiempo que pasas en esas páginas
+The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 
-El tiempo total de uso de la Aplicación
+The time spent on the Application
 
-El sistema operativo que usas en tu dispositivo móvil
+The operating system you use on your mobile device
 
-La Aplicación no recopila información precisa sobre la ubicación de tu dispositivo móvil.
+The Application does not gather precise information about the location of your mobile device.
 
-Sin embargo, puede recopilar tu ubicación aproximada, lo cual ayuda al Proveedor del Servicio de las siguientes maneras:
+The Application collects your device's approximate location, which helps the Service Provider in the following ways:
 
-Servicios de geolocalización: Para ofrecer contenido personalizado, recomendaciones relevantes y servicios basados en ubicación
+Geolocation Services: To provide personalized content, relevant recommendations, and location-based services
 
-Análisis y mejoras: Para analizar el comportamiento del usuario, identificar tendencias y mejorar el rendimiento general de la Aplicación
+Analytics and Improvements: To analyze user behavior, identify trends, and improve the Application's performance
 
-Servicios de terceros: La ubicación anonimizada puede ser compartida con servicios externos para mejorar la Aplicación
+Third-Party Services: Anonymized location data may be transmitted to third parties to enhance the Application
 
-Además, la Aplicación utiliza un servicio de inteligencia artificial (IA) de terceros para ofrecer funcionalidad de chatbot. Toda información que proporciones durante tus interacciones con el chatbot (incluyendo el texto que escribas) puede ser procesada por plataformas de IA externas para generar respuestas. Estas plataformas se rigen por sus propias políticas de privacidad.
+The Application also uses a third-party AI service to power chatbot functionality. Any information you provide during interactions with the AI (including text you input) may be processed by external AI platforms to generate appropriate responses. These AI services are governed by their own privacy policies.
 
-El Proveedor del Servicio puede utilizar la información que proporciones para contactarte ocasionalmente con información importante, avisos necesarios o promociones de marketing.
+The Service Provider may use the information you provide to contact you with important information, required notices, and marketing promotions.
 
-Para una mejor experiencia, el Proveedor del Servicio puede requerir que proporciones cierta información personal identificable, como tu dirección de correo electrónico. Esta información será retenida y utilizada según se describe en esta política.
+For a better experience, while using the Application, the Service Provider may require you to provide personally identifiable information, including but not limited to your email address. This information is retained and used as described in this policy.
 
-Acceso de terceros
+Third Party Access
 
-Solo se transmite periódicamente información agregada y anonimizada a servicios externos para ayudar al Proveedor del Servicio a mejorar la Aplicación. Los servicios de terceros utilizados incluyen:
+Only aggregated, anonymized data is periodically transmitted to external services to help improve the Application. Third-party services used include:
 
 Google Play Services
 
 AdMob
 
-Plataforma de IA de terceros para generar respuestas del chatbot (por ejemplo, OpenAI u otros proveedores)
+Third-party AI platform for chatbot response generation (e.g., OpenAI or other providers)
 
-Estos servicios de terceros tienen sus propias políticas de privacidad que rigen el tratamiento de los datos.
+These third-party services have their own privacy policies that govern the use of collected data.
 
-El Proveedor del Servicio podrá divulgar información proporcionada por el usuario y recopilada automáticamente:
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-Según lo exija la ley
+As required by law
 
-Cuando considere de buena fe que es necesario para proteger sus derechos, la seguridad del usuario u otros, investigar fraude o responder a una solicitud gubernamental
+When necessary to protect rights, safety, or respond to government requests
 
-Con proveedores de servicios de confianza que trabajen en su nombre y respeten esta política
+With trusted service providers who adhere to this privacy policy
 
-Derechos de exclusión
+Opt-Out Rights
 
-Puedes detener toda recopilación de información desinstalando la Aplicación.
+You can stop all collection of information by the Application by uninstalling it.
 
-Política de retención de datos
+Data Retention Policy
 
-El Proveedor del Servicio conservará los datos proporcionados por el usuario mientras utilices la Aplicación y durante un período razonable después. Puedes solicitar la eliminación de tus datos escribiendo a henrydevops6@gmail.com.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. You may request deletion of your data by emailing henrydevops6@gmail.com.
 
-Niños
+Children
 
-La Aplicación no está dirigida a menores de 13 años. No se recopila intencionadamente información personal de menores de 13 años. Si se descubre que se ha recopilado dicha información, será eliminada de inmediato. Si eres padre, madre o tutor y sabes que tu hijo nos ha proporcionado información personal, contáctanos a henrydevops6@gmail.com para que tomemos las acciones necesarias.
+The Application is not intended for children under 13. No personal data is knowingly collected from children. If discovered, such data will be deleted immediately.
 
-Seguridad
+Security
 
-El Proveedor del Servicio protege la confidencialidad de tu información mediante medidas físicas, electrónicas y administrativas.
+The Service Provider uses physical, electronic, and procedural safeguards to protect your information.
 
-Cambios
+Changes
 
-Esta Política de Privacidad puede actualizarse ocasionalmente. Se notificará cualquier cambio actualizando esta página. Se recomienda revisar esta política periódicamente, ya que el uso continuado se considerará aceptación de los cambios.
+This Privacy Policy may be updated from time to time. Any updates will be posted here.
 
-Fecha de entrada en vigencia: 11 de mayo de 2025
+Effective date: 2025-05-11
 
-Tu consentimiento
+Your Consent
 
-Al utilizar la Aplicación, aceptas el tratamiento de tu información conforme a esta política y sus futuras modificaciones.
+By using the Application, you consent to this policy and its future updates.
 
-Contacto
+Contact Us
 
-Si tienes preguntas sobre esta política de privacidad, contacta al Proveedor del Servicio vía correo electrónico: henrydevops6@gmail.com
+For questions or concerns about this Privacy Policy, contact henrydevops6@gmail.com.
